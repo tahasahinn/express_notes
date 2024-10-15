@@ -1,5 +1,5 @@
 - Nodejs
-  * mongodb
-  * dotenv
-  * expressjs
-  * nodemon
+* mongodb
+* dotenv
+* expressjs
+* nodemon
