@@ -9,7 +9,7 @@ const notlarGetir = async (req, res) => {
     res.status(400).json({ msg: err.message });
   }
 };
-
+s
 const notOlustur = async (req, res) => {
   const { baslik, aciklama } = req.body;
 
